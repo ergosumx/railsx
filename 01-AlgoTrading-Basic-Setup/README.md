@@ -65,7 +65,7 @@ The Ergo architecture supports flexible deployment options:
 The modular design allows components to be deployed across a mix of on-premise and cloud infrastructure. Containers enable consistency across environments.
 
 ## Development Status
-The Ergo architecture is currently under active development, with general availability planned for Q3 2024.
+The ErgoEngineX architecture is currently under active development, with general availability planned for Q3 2024.
 
 ### Upcoming Availability
 - Q2 2024: Private trials and preview for early customers via invite

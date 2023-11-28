@@ -30,8 +30,8 @@ The ErgoEngineX architecture consists of three main components for collecting da
 
 ### ErgoFeedX
 - Collection of tools written in Rust and Python to collect exchange data feeds at low latency in real-time
--Plug-in architecture to add new data sources
--Gets market indexes, research, signals, forecasting models
+- Plug-in architecture to add new data sources
+- Gets market indexes, research, signals, forecasting models
 - Handles data overrides
 ### ErgoQuantX
 - Collection of quantitative analysis algorithms written in Rust, C++, Cython, and Python

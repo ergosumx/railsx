@@ -47,7 +47,7 @@ The ErgoEngineX architecture consists of three main components for collecting da
 The components are designed to be modular and extensible, handling the full pipeline from data collection to analysis to trade execution. Interfaces allow data and models to flow efficiently between components.
 
 ## Deployment
-The Ergo architecture supports flexible deployment options:
+The ErgoEngineX architecture supports flexible deployment options:
 
 ### Local Development
 - Components can be deployed locally using Docker Desktop for development and small scale setups

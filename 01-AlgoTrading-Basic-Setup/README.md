@@ -2,7 +2,7 @@
 ## Terms of Use
 The information provided in this document describing the ErgoEngineX architecture is released under the "Commons Clause" License Condition v1.0. This places restrictions on commercial use and sales of any implementation without explicit permission. Copyright 2023 **Nilay Parikh**. All rights reserved, unless explicitly granted by the author under commercial license terms.
 
-Complete license text: [Commons Clause" License Condition v1.0](https://raw.githubusercontent.com/ergosumx/railsx/main/LICENSE)
+Complete license text: ["Commons Clause" License Condition v1.0](https://raw.githubusercontent.com/ergosumx/railsx/main/LICENSE)
 
 ## Overview
 
